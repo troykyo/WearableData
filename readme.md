@@ -1,0 +1,1 @@
+This is the work of the Wearable Data Studio hosted at Amsterdam University of Applied Sciences.
