@@ -1,0 +1,7 @@
+title: Wearable Data Studio
+description: Real-time data tracking for wearable devices
+theme: minima # You can change to another Jekyll theme
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
